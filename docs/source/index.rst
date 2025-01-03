@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+King88 – Biểu tượng của sân chơi uy tín tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`King88 <https://king88.soy/>`_ được thành lập vào năm 2018, đã nhanh chóng vươn lên trở thành một trong những sân chơi hàng đầu tại Việt Nam nhờ cung cấp các trò chơi đỉnh cao và dịch vụ khách hàng chuyên nghiệp. Với giao diện hiện đại, hệ thống bảo mật tiên tiến đạt chứng nhận eCOGRA, và vô số ưu đãi hấp dẫn, King88 không chỉ mang đến trải nghiệm giải trí đa dạng mà còn khẳng định sự an toàn và minh bạch trong từng trò chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nổi bật với các dòng game như casino, thể thao, bắn cá, và xổ số, King88 đáp ứng mọi nhu cầu của người chơi. Hơn nữa, đội ngũ chăm sóc khách hàng luôn sẵn sàng hỗ trợ 24/7, đảm bảo sự hài lòng tối đa. Hãy khám phá ngay vũ trụ giải trí đỉnh cao tại King88 và tận hưởng các chương trình khuyến mãi độc quyền dành riêng cho bạn!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 176 Đ. Gò Xoài, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0887896434. 
 
-.. toctree::
+Email: info@king88.soy. 
 
-   usage
-   api
+Website: https://king88.soy/ 
+
+#king88 #trangchuking88 #dangkyking88 #dangnhapking88 #linkking88
